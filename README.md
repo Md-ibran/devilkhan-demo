@@ -1,2 +1,3 @@
 # devilkhan-demo
-this is demo for practicing only
+this is demo for practicing only...
+Author - Devil Khan
